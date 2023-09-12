@@ -348,6 +348,14 @@ class home extends StatelessWidget {
                 ),
               ),
             ),
+            ListTile(
+              title: Text('Need help?',
+                style: TextStyle(fontSize: 25,
+
+                ),
+              ),
+
+            ),
 
 
             ListTile(
